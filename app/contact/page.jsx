@@ -43,7 +43,7 @@ const Contact = () => {
           <div className="xl:w-[54%] order-2 xl:order-none "> 
               <form className="flex flex-col gap-6 p-10  rounded-xl bg-[#011e42]">
                   <h3 className="text-4xl text-fonttext">Let's work together</h3>
-                  <p className="text-white/60">Let’s work together to create something impactful and inspiring. With a strong foundation in full-stack development and a passion for clean, efficient code, I aim to build applications that are not only functional but also visually engaging. By incorporating inspiring designs, I bring a creative and approachable touch to developer-focused tools, making interactions more enjoyable, relatable, and user-friendly</p> 
+                  <p className="text-white/60">Work together to create something impactful and inspiring. With a strong foundation in full-stack development and a passion for clean, efficient code, I aim to build applications that are not only functional but also visually engaging. By incorporating inspiring designs, I bring a creative and approachable touch to developer-focused tools, making interactions more enjoyable, relatable, and user-friendly</p> 
                   {/* Inputs */}
                   {/* <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
                     <Input type="firstname" placeholder="Firstname" />
