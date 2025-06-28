@@ -48,7 +48,7 @@ const Photo = () => {
             }}
           >
             <Image
-              src="/assets/myImage03.png"
+              src="/assets/myImage05.jpeg"
               alt="Profile"
               fill
               className="object-cover"
