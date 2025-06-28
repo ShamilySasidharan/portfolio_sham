@@ -50,7 +50,7 @@ const about={
 const experience = {
   icon:"",
   title:"My Experience",
-  description:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo iusto mollitia odit rem?",
+  description:"MERN Stack Developer with 1.7 years of hands-on experience in building full-stack web applications. Certified by ICTAK in MERN Stack, with additional certifications in React and Node.js. Skilled in developing responsive UIs, RESTful APIs, and deploying scalable applications.",
   items:[
     {
       company:"Lyon IT.",
@@ -63,14 +63,14 @@ const experience = {
       duration:"6 months"
     },
     {
-      company:"ICTAK. ",
+      company:"Namaste React",
       position:"Student",
-      duration:"6 months"
+      duration:"self-Paced"
     },
     {
-      company:"ICTAK. ",
+      company:"Namaste Node ",
       position:"Student",
-      duration:"6 months"
+      duration:"self-paced"
     },
 
   ]
@@ -81,7 +81,7 @@ const experience = {
 const education = {
   icon:"",
   title:"My Education",
-  description:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo iusto mollitia odit rem?",
+  description:"B.Tech in Computer Science and Engineering from Govt Model Engineering College,Thrikkakara with a strong foundation in software development and problem-solving.",
   items:[
     {
       institution:"Our Lady Of Mercy , Aroor",
@@ -128,7 +128,7 @@ const education = {
 // skills
 const skills={
   title:"My Skills",
-  description:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo eius ea accusamus aut accusantium.",
+  description:"Proficient in building web applications using React.js, Next.js, JavaScript, HTML, and Tailwind CSS, with hands-on experience in backend development using Node.js and Express.js, state management with Redux Toolkit, and UI design using Figma.",
   skillList:[
     {
       icon: <FaHtml5/>,

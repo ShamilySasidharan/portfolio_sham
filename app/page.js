@@ -28,13 +28,13 @@ const page = () => {
             </p>
             {/* button and socials  */}
             <div className="flex flex-col xl:flex-row items-center gap-8">
-              <Button className="uppercase flex items-center gap-2 hover:bg-fonttext hover:text-black cursor-pointer" 
+              {/* <Button className="uppercase flex items-center gap-2 hover:bg-fonttext hover:text-black cursor-pointer" 
               variant="outline"
               size="lg"
               >
                 <span>Download cv</span>
                 <FileDownIcon/>
-              </Button>
+              </Button> */}
               <div className="mb-8 xl:mb-0 ">
                 <Socials containerStyles="flex gap-6" iconStyles="w-9 h-9 border border-fonttext rounded-full flex
                 justify-center items-center text-fonttext text-base hover:bg-fonttext hover:text-black hover:transition-all duration-500"/>

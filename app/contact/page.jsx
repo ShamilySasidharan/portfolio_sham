@@ -43,16 +43,16 @@ const Contact = () => {
           <div className="xl:w-[54%] order-2 xl:order-none "> 
               <form className="flex flex-col gap-6 p-10  rounded-xl bg-[#011e42]">
                   <h3 className="text-4xl text-fonttext">Let's work together</h3>
-                  <p className="text-white/60">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sed, voluptatum ipsa corporis odit repudiandae velit est quos suscipit, accusantium rerum similique placeat atque dignissimos doloremque! Quos cum necessitatibus provident id.</p> 
+                  <p className="text-white/60">Let’s work together to create something impactful and inspiring. With a strong foundation in full-stack development and a passion for clean, efficient code, I aim to build applications that are not only functional but also visually engaging. By incorporating inspiring designs, I bring a creative and approachable touch to developer-focused tools, making interactions more enjoyable, relatable, and user-friendly</p> 
                   {/* Inputs */}
-                  <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+                  {/* <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
                     <Input type="firstname" placeholder="Firstname" />
                     <Input type="lastname" placeholder="Lastname" />
                     <Input type="email" placeholder="Email Address" />
                     <Input type="phone" placeholder="Phone Number" />
-                  </div>
+                  </div> */}
                   {/* select  */}
-                  <Select>
+                  {/* <Select>
                     <SelectTrigger className="w-full">
                       <SelectValue placeholder="Select a service"></SelectValue>
                     </SelectTrigger>
@@ -67,12 +67,12 @@ const Contact = () => {
                     </SelectGroup>
                     </SelectContent>
                    
-                  </Select>
+                  </Select> */}
 
                   {/* textarea */}
-                  <Textarea className="h-[200px]" placeholder="Type your message here."/>
+                  {/* <Textarea className="h-[200px]" placeholder="Type your message here."/>
              
-                  <Button size="md" className="max-w-40 rounded-md bg-fonttext text-black"> Send message</Button>
+                  <Button size="md" className="max-w-40 rounded-md bg-fonttext text-black"> Send message</Button> */}
              
               </form>
           </div>

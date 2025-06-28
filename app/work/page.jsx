@@ -19,7 +19,7 @@ const projects = [
     num: "01",
     category: "FullStack",
     title: "DevTinder",
-    description: "The app is build to communicate between the developers but the theme is anime  character for me to show the ease free interations. ",
+    description: "The app is built to help developers communicate easily, with an anime-themed design to make interactions more engaging and easier to relate to. ",
     stack: [
       {
         name: "Html5"
